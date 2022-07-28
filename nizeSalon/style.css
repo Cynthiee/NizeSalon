@@ -1,0 +1,27 @@
+body {
+    background-color: bisque;
+
+}
+h1 {
+    background-color: rgb(212, 92, 92);
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+div{
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+}
+/*.row{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+
+}
+.column img{
+    margin-top: 8px;
+    vertical-align: middle;
+}*/
